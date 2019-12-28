@@ -1,5 +1,5 @@
-def using_push(colors_in_the_rainbow)
-  array.push("violet")
+def using_push(array,string)
+  array.push(string)
 end
 
 def using_unshift(array, string)
